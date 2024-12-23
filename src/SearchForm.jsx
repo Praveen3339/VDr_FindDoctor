@@ -35,7 +35,7 @@ const SearchForm = () => {
             htmlFor="doctor-search"
             className="visually-hidden"
           >
-            search for doctors, clinics, hospitals, or specializations
+            Search for doctors, clinics, hospitals, or specializations
           </label>
           <input
             type="text"
